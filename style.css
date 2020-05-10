@@ -1,3 +1,10 @@
 body {
   background: blue;
+  color: black;
+}
+
+.img-div {
+  width: 500px;
+  margin: auto;
+  border: 5px solid black;
 }
