@@ -7,9 +7,27 @@ body {
   text-align: center;
 }
 
-.img-div {
+#img-div {
   width: 500px;
   margin: auto;
-  border: 5px solid black;
   background-color: blue;
+}
+
+#tribute-info ul li {
+  width: 700px;
+  margin: auto;
+  text-align: left;
+}
+
+#careers {
+  padding: 20px 0px 5px 0px;
+}
+
+img {
+  margin: 50px 0px 5px 0px;
+  border: 5px solid black;
+}
+
+#img-caption {
+  padding: 0px 0px 10px 0px;
 }
